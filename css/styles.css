@@ -1,0 +1,12 @@
+/* Placera er stilmall här */
+html, body{
+  height: 100%;
+  background-color: #A3CCFF;
+}
+.mapCountry {
+  height: 100vh;
+  width: 100%;
+}
+.app-info-hide{
+  display: none;
+}
